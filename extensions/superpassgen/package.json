@@ -83,7 +83,7 @@
     }
   ],
   "dependencies": {
-    "@raycast/api": "1.39.3",
+    "@raycast/api": "1.80.0",
     "supergenpass-lib": "3.0.1"
   },
   "devDependencies": {
