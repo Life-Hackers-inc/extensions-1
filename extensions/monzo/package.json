@@ -45,7 +45,7 @@
   ],
   "dependencies": {
     "@marceloclp/monzojs": "^1.0.1",
-    "@raycast/api": "^1.40.1",
+    "@raycast/api": "^1.80.0",
     "@raycast/utils": "^1.4.8",
     "node-fetch": "^3.2.10"
   },
