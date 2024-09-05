@@ -51,7 +51,7 @@
     }
   ],
   "dependencies": {
-    "@graphql-codegen/cli": "^2.16.2",
+    "@graphql-codegen/cli": "^4.0.0",
     "@graphql-codegen/typescript-graphql-request": "^4.5.8",
     "@graphql-codegen/typescript-operations": "^2.5.11",
     "@raycast/api": "^1.45.2",
@@ -60,7 +60,7 @@
     "graphql-request": "^5.1.0",
     "lodash": "^4.17.21",
     "node-fetch": "^3.3.0",
-    "octokit": "^2.0.10"
+    "octokit": "^4.0.0"
   },
   "devDependencies": {
     "@types/lodash": "^4.14.191",
